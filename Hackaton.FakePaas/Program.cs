@@ -10,7 +10,7 @@ namespace Hackaton.FakePaas
     internal class Program
     {
         private const string ConnectionString =
-            "Server=SRVUAPAYDB02.betsson.local;Database=wp_eventstore;Integrated Security=SSPI";
+            "Server=.;Database=wp_eventstore;Integrated Security=SSPI";
 
         private static ActorSelection _actorSelector;
 
