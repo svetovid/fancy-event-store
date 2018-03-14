@@ -1,2 +1,0 @@
-C:\Users\degr\source\repos\fancy-event-store\Hackathon.EventStore.Reader\obj\Debug\Hackathon.EventStore.Reader.csprojResolveAssemblyReference.cache
-C:\Users\degr\source\repos\fancy-event-store\Hackathon.EventStore.Reader\obj\Debug\Hackathon.EventStore.Reader.csproj.CoreCompileInputs.cache

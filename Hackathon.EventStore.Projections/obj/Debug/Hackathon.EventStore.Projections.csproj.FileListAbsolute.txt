@@ -1,6 +1,0 @@
-C:\Users\degr\source\repos\fancy-event-store\Hackathon.EventStore.Projections\bin\Debug\Hackathon.EventStore.Projections.dll
-C:\Users\degr\source\repos\fancy-event-store\Hackathon.EventStore.Projections\bin\Debug\Hackathon.EventStore.Projections.pdb
-C:\Users\degr\source\repos\fancy-event-store\Hackathon.EventStore.Projections\obj\Debug\Hackathon.EventStore.Projections.csproj.CoreCompileInputs.cache
-C:\Users\degr\source\repos\fancy-event-store\Hackathon.EventStore.Projections\obj\Debug\Hackathon.EventStore.Projections.dll
-C:\Users\degr\source\repos\fancy-event-store\Hackathon.EventStore.Projections\obj\Debug\Hackathon.EventStore.Projections.pdb
-C:\Users\degr\source\repos\fancy-event-store\Hackathon.EventStore.Projections\obj\Debug\Hackathon.EventStore.Projections.csprojResolveAssemblyReference.cache
